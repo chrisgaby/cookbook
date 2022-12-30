@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dough on Cookbook</title>
+    <link>https://chrisgaby.github.io/cookbook/tags/dough/</link>
+    <description>Recent content in dough on Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 05:11:45 -0500</lastBuildDate><atom:link href="https://chrisgaby.github.io/cookbook/tags/dough/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pizza Dough</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/pizza-dough/</link>
+      <pubDate>Thu, 09 Apr 2020 05:11:45 -0500</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/pizza-dough/</guid>
+      <description>Quick Rise White Pizza Dough</description>
+    </item>
+    
+  </channel>
+</rss>

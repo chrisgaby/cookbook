@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sourdough on Cookbook</title>
+    <link>https://chrisgaby.github.io/cookbook/tags/sourdough/</link>
+    <description>Recent content in sourdough on Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2020 08:11:45 -0500</lastBuildDate><atom:link href="https://chrisgaby.github.io/cookbook/tags/sourdough/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sourdough Pancakes</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/sourdough-pancakes/</link>
+      <pubDate>Sat, 25 Jan 2020 08:11:45 -0500</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/sourdough-pancakes/</guid>
+      <description>Fluffy Vegan Sourdough Pancakes</description>
+    </item>
+    
+  </channel>
+</rss>

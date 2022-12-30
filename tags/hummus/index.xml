@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hummus on Cookbook</title>
+    <link>https://chrisgaby.github.io/cookbook/tags/hummus/</link>
+    <description>Recent content in hummus on Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://chrisgaby.github.io/cookbook/tags/hummus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hummus</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/hummus/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/hummus/</guid>
+      <description>Simple Chickpea Hummus Spread</description>
+    </item>
+    
+  </channel>
+</rss>

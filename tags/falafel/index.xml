@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>falafel on Cookbook</title>
+    <link>https://chrisgaby.github.io/cookbook/tags/falafel/</link>
+    <description>Recent content in falafel on Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Nov 2019 08:11:45 -0500</lastBuildDate><atom:link href="https://chrisgaby.github.io/cookbook/tags/falafel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Falafel</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/vegan-falafel/</link>
+      <pubDate>Thu, 14 Nov 2019 08:11:45 -0500</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/vegan-falafel/</guid>
+      <description>Quick &amp;amp; Easy Vegan Falafel</description>
+    </item>
+    
+  </channel>
+</rss>

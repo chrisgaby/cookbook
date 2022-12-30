@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>burger on Cookbook</title>
+    <link>https://chrisgaby.github.io/cookbook/tags/burger/</link>
+    <description>Recent content in burger on Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Feb 2020 08:11:45 -0500</lastBuildDate><atom:link href="https://chrisgaby.github.io/cookbook/tags/burger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DIY Beyond Burger</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/diy-beyond-burger/</link>
+      <pubDate>Wed, 05 Feb 2020 08:11:45 -0500</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/diy-beyond-burger/</guid>
+      <description>Home made Beyond Burger</description>
+    </item>
+    
+  </channel>
+</rss>

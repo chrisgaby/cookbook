@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cookbook</title>
+    <link>https://chrisgaby.github.io/cookbook/</link>
+    <description>Recent content on Cookbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 05:11:45 -0500</lastBuildDate><atom:link href="https://chrisgaby.github.io/cookbook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pizza Dough</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/pizza-dough/</link>
+      <pubDate>Thu, 09 Apr 2020 05:11:45 -0500</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/pizza-dough/</guid>
+      <description>Quick Rise White Pizza Dough</description>
+    </item>
+    
+    <item>
+      <title>DIY Beyond Burger</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/diy-beyond-burger/</link>
+      <pubDate>Wed, 05 Feb 2020 08:11:45 -0500</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/diy-beyond-burger/</guid>
+      <description>Home made Beyond Burger</description>
+    </item>
+    
+    <item>
+      <title>Sourdough Pancakes</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/sourdough-pancakes/</link>
+      <pubDate>Sat, 25 Jan 2020 08:11:45 -0500</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/sourdough-pancakes/</guid>
+      <description>Fluffy Vegan Sourdough Pancakes</description>
+    </item>
+    
+    <item>
+      <title>Hummus</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/hummus/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/hummus/</guid>
+      <description>Simple Chickpea Hummus Spread</description>
+    </item>
+    
+    <item>
+      <title>Tempeh Chili</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/tempeh-chili/</link>
+      <pubDate>Fri, 22 Nov 2019 02:11:45 -0500</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/tempeh-chili/</guid>
+      <description>Vegan Chili with Beer &amp;amp; Tempeh</description>
+    </item>
+    
+    <item>
+      <title>Falafel</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/vegan-falafel/</link>
+      <pubDate>Thu, 14 Nov 2019 08:11:45 -0500</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/vegan-falafel/</guid>
+      <description>Quick &amp;amp; Easy Vegan Falafel</description>
+    </item>
+    
+    <item>
+      <title>General Tao Tofu</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/general-tao-tofu/</link>
+      <pubDate>Wed, 13 Nov 2019 08:11:45 -0500</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/general-tao-tofu/</guid>
+      <description>Tofu Glazed with Sauce on Rice</description>
+    </item>
+    
+    <item>
+      <title>Minestrone Soup</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/minestrone-soup/</link>
+      <pubDate>Wed, 13 Nov 2019 08:11:45 -0500</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/minestrone-soup/</guid>
+      <description>Classic Minestrone Soup</description>
+    </item>
+    
+    <item>
+      <title>Udon Noodles</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/udon-noodles/</link>
+      <pubDate>Wed, 13 Nov 2019 08:11:45 -0500</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/udon-noodles/</guid>
+      <description>Stir Fry Udon Noodles</description>
+    </item>
+    
+    <item>
+      <title>Vegan Pancakes</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/vegan-pancakes/</link>
+      <pubDate>Wed, 13 Nov 2019 08:11:45 -0500</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/vegan-pancakes/</guid>
+      <description>Fluffy White Pancakes</description>
+    </item>
+    
+    <item>
+      <title>Zucchini Pasta</title>
+      <link>https://chrisgaby.github.io/cookbook/recipes/pasta-zucchini/</link>
+      <pubDate>Wed, 13 Nov 2019 08:11:45 -0500</pubDate>
+      
+      <guid>https://chrisgaby.github.io/cookbook/recipes/pasta-zucchini/</guid>
+      <description>White Pasta with Zucchini Cubes</description>
+    </item>
+    
+  </channel>
+</rss>
